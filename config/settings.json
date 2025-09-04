@@ -1,0 +1,10 @@
+{
+    "stock_data_url": "https://finance.yahoo.com/quote/{symbol}",
+    "data_file_path": "data/Latest Stocks.csv",
+    "default_days_back": 30,
+    "default_count_threshold": 2,
+    "log_level": "INFO",
+    "output_directory": "output",
+    "date_column": "date",
+    "symbol_column": "symbol"
+}
